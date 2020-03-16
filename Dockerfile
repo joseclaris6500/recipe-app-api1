@@ -1,6 +1,6 @@
 #Add Images
 FROM python:3.7-alpine
-MAINTAINER Jose
+
 
 ENV PYTHONUNBUFFERED 1
 
